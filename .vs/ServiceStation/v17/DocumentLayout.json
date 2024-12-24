@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Projects\\ServiceStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\servicestation.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\servicestation.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\models\\sevicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\models\\sevicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Migrations\\20241224154842_Intial_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceStation.Web\\Migrations\\20241224154842_Intial_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\views\\services\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\views\\services\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|d:\\c# projects\\servicestation\\servicestation.web\\views\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70DA1464-57AF-45D2-887D-942702921D4A}|ServiceStation.Web\\ServiceStation.Web.csproj|solutionrelative:servicestation.web\\views\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Vehicles\\Create.cshtml",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Views\\Vehicles\\Create.cshtml",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Vehicles\\Create.cshtml",
+              "RelativeToolTip": "ServiceStation.Web\\Views\\Vehicles\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T17:37:21.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\VehicleService.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\VehicleService.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\VehicleService.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:51:44.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Vehicle.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:58:28.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\Employee.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Employee.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:19:56.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\Customer.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Customer.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:01:54.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\TransactionStatus.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\TransactionStatus.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:29:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\Transaction.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\Transaction.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:24:45.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:08:51.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\appsettings.json",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\appsettings.json",
+              "RelativeToolTip": "ServiceStation.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T07:32:08.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Program.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Program.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:05:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241224154842_Intial_Migration.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Migrations\\20241224154842_Intial_Migration.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Migrations\\20241224154842_Intial_Migration.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Migrations\\20241224154842_Intial_Migration.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Migrations\\20241224154842_Intial_Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:48:42.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceStation.Web",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\ServiceStation.Web.csproj",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\ServiceStation.Web.csproj",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\ServiceStation.Web.csproj",
+              "RelativeToolTip": "ServiceStation.Web\\ServiceStation.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T15:06:45.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeviceDBContext.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\SeviceDBContext.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Models\\SeviceDBContext.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Models\\SeviceDBContext.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Models\\SeviceDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:19:38.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ServiceStation.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T07:23:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:00:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "ServiceStation.Web\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:42:00.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Services\\details.cshtml",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Views\\Services\\details.cshtml",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Services\\details.cshtml",
+              "RelativeToolTip": "ServiceStation.Web\\Views\\Services\\details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:40:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.cshtml.css",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Services\\index.cshtml.css",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Views\\Services\\index.cshtml.css",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Services\\index.cshtml.css",
+              "RelativeToolTip": "ServiceStation.Web\\Views\\Services\\index.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-22T14:58:51.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceStation.Web\\Views\\Services\\Index.cshtml",
+              "ToolTip": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "ServiceStation.Web\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T08:51:53.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
