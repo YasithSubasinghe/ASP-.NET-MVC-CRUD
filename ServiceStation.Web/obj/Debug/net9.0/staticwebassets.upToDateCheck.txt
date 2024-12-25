@@ -21,10 +21,12 @@ D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\css\footer.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\favicon.ico
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\css\home.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
@@ -42,6 +44,7 @@ D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\js\b
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\css\header.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\css\site.css
@@ -57,8 +60,12 @@ D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\jquery\dist\jquery.js
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\css\footer.css
+wwwroot\css\header.css
+wwwroot\css\home.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\car.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

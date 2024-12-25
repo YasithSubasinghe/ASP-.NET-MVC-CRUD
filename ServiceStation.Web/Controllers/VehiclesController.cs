@@ -53,7 +53,7 @@ namespace ServiceStation.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Make,Model,Year,Color,IsDeleted,CustomerId")] Vehicle vehicle)
+        public async Task<IActionResult> Create([Bind("Id,Type,Model,Make,IsDeleted")] Vehicle vehicle)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace ServiceStation.Web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Make,Model,Year,Color,IsDeleted,CustomerId")] Vehicle vehicle)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Type,Model,Make,IsDeleted")] Vehicle vehicle)
         {
             if (id != vehicle.Id)
             {

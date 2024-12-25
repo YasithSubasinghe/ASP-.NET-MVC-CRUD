@@ -2,7 +2,19 @@
   "Files": [
     {
       "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceStation.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ServiceStation.Web.ou9le66i7r.bundle.scp.css"
+      "PackagePath": "staticwebassets\\ServiceStation.Web.alp53346md.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
       "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\css\\site.css",
@@ -11,6 +23,10 @@
     {
       "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\images\\car.jpg",
+      "PackagePath": "staticwebassets\\images\\car.jpg"
     },
     {
       "Id": "D:\\C# Projects\\ServiceStation\\ServiceStation.Web\\wwwroot\\js\\site.js",

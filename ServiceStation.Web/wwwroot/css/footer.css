@@ -1,0 +1,45 @@
+﻿/* Ensure the body takes at least full screen height */
+html, body {
+    height: 100%; /* Make sure body takes full height of the page */
+    margin: 0;    /* Remove default margin */
+}
+
+/* Layout with flexbox to push the footer down */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main content area takes remaining space */
+.container {
+    flex: 1;
+}
+
+/* Footer styling */
+.custom-footer {
+    background-color: #2c2f3d; /* Darker background with a hint of blue */
+    color: #f1f1f1; /* Light text color for contrast */
+    padding: 20px 0; /* Add padding for better spacing */
+    text-align: center; /* Center the text */
+    position: relative; /* Ensures footer stays in place */
+    bottom: 0; /* Ensures it sticks to the bottom */
+    width: 100%; /* Ensures full width */
+}
+
+/* Styling for the footer link */
+.custom-footer .footer-link {
+    color: #e03e2f; /* Dark red for the link */
+    text-decoration: none; /* Remove underline from the link */
+    font-weight: 600; /* Make the link text bold */
+    transition: color 0.3s ease-in-out; /* Smooth transition for color change */
+}
+
+.custom-footer .footer-link:hover {
+    color: #f1f1f1; /* Change the link color to white on hover */
+    text-decoration: underline; /* Add underline effect on hover */
+}
+
+/* Optional: Add a shadow effect to the footer */
+.custom-footer {
+    box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.2);
+}

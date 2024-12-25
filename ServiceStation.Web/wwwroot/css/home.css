@@ -1,0 +1,57 @@
+﻿.text-center h1 {
+    font-family: 'Arial', sans-serif; /* Clean, modern font */
+    font-size: 3rem; /* Adjust the size to make it more prominent */
+    font-weight: 700; /* Bold text */
+    color: #1E1200; /* A rich blue color */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+    margin-top: 50px; /* Add some space above */
+    margin-bottom: 20px; /* Add some space below */
+    letter-spacing: 2px; /* Slightly increase letter spacing for a modern look */
+    line-height: 1.2; /* Adjust line height for better spacing */
+    transition: color 0.3s ease-in-out; /* Smooth transition for hover effect */
+}
+
+    .text-center h1:hover {
+        color: #8B8060; /* Change text color when hovered */
+        transform: scale(1.05); /* Slight zoom effect on hover */
+    }
+
+
+.home-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+.image-container {
+    margin-bottom: 20px;
+}
+
+.welcome-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.home-item {
+    text-decoration: none;
+    color: white;
+    background-color: #A30000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+    .home-item:hover {
+        background-color: #8B8060;
+        color: white; /* Ensure text remains white when hovered */
+    }

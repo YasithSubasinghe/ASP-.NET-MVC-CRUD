@@ -16,7 +16,5 @@ namespace ServiceStation.Web.Models
         [Required]
         public string Phone { get; set; }
         public bool IsDeleted { get; set; }
-        public List<Vehicle> Vehicles { get; set; } = new List<Vehicle>();
-
     }
 }

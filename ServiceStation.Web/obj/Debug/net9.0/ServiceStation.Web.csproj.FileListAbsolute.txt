@@ -244,7 +244,6 @@ D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation.Web.RazorAssemblyInfo.cache
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation.Web.RazorAssemblyInfo.cs
-D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\scopedcss\Views\Services\index.cshtml.rz.scp.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\scopedcss\bundle\ServiceStation.Web.styles.css
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\scopedcss\projectbundle\ServiceStation.Web.bundle.scp.css
@@ -307,8 +306,6 @@ D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\y41
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\zqtc3gxq1f-dd6z7egasc.gz
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\hyl52ri1mg-5pze98is44.gz
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\18ud1smbf8-mlv21k5csn.gz
-D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\6pb1lvqszs-ou9le66i7r.gz
-D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\ua5h95k2nd-ou9le66i7r.gz
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\staticwebassets.build.json
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\staticwebassets.development.json
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -325,3 +322,9 @@ D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\refint\Service
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation.Web.pdb
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation.Web.genruntimeconfig.cache
 D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ref\ServiceStation.Web.dll
+D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\ServiceStation.Web.sourcelink.json
+D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\6pb1lvqszs-alp53346md.gz
+D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\ua5h95k2nd-alp53346md.gz
+D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\bgj19vfddx-4wjts5r52y.gz
+D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\8rxeki340m-b2iwr99m2a.gz
+D:\C# Projects\ServiceStation\ServiceStation.Web\obj\Debug\net9.0\compressed\rqyg3wbruh-4a3y2b4oo0.gz

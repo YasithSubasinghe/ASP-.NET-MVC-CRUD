@@ -2,8 +2,23 @@
     ViewData["Title"] = "Home Page";
 }
 
+<!-- Welcome Message -->
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <h2 class="display-1">Searvice Station</h2>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to Glow Service Station</h1>
+</div>
+
+<div class="home-container">
+    <!-- Welcome Image -->
+    <div class="image-container">
+        <img src="~/images/car.jpg" alt="Welcome to Service Station" class="welcome-image" />
+    </div>
+
+
+
+    <!-- Navigation Section -->
+    <div class="navigation">
+        <a href="/Customers/Create" class="home-item">Add Customer</a>
+        <a href="/VehicleServices/Create" class="home-item">Add Services</a>
+        <a href="/Vehicles/Create" class="home-item">Add Vehicles</a>
+    </div>
 </div>
